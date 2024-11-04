@@ -44,6 +44,5 @@ public class ResidentLoader {
         FileWriter fw = new FileWriter(fileName);
         fw.write(result+"");
         fw.close();
-
     }
 }
